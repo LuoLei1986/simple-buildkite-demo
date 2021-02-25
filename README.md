@@ -1,5 +1,5 @@
 # simple-buildkite-demo
-[![Build status](https://badge.buildkite.com/5ee17857bdaeb404de3a4cc62e9b0afeec9aab614c783029f2.svg)](https://buildkite.com/test-699/first-pipeline)
+[![Build status](https://badge.buildkite.com/3eaecf5dc235bf24a510cbbfb9e9d1ca7bb885d434d7786642.svg)](https://buildkite.com/test-816/test)
 
 
 test add
